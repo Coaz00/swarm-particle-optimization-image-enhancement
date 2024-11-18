@@ -1,1 +1,1 @@
-# swarm-particle-optimization-image-enhancement
+The goal of this project is to enhance low-contrast image by combining histogram equalization and gamma correction. Parameters in this enhancement algorithm are determined using swarm particle optimization.
